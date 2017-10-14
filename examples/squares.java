@@ -33,10 +33,10 @@ package examples;
 				
 				// Informs the user of the result of their input being squared
 				if ( num < 46341)
-				{
+				
 					System.out.println("The result of squaring " + num + " is " + result);
 					System.out.println();
-				}
+				
 				else {
 					System.err.println("Input number " + num + " is too large");
 					System.out.println();					
